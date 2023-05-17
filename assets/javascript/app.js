@@ -22,7 +22,8 @@ class _app {
     "Producer from Sweden",
     "Electronic music",
     "Merch coming soon..",
-    "Producer from Sweden",
+    "Site made by pando#001",
+    "Tickets are now for sale!",
   ];
   titleChanger = (text, delay) => {
     if (!text) return;
