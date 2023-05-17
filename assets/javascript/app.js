@@ -22,7 +22,7 @@ class _app {
     "Producer from Sweden",
     "Electronic music",
     "Merch coming soon..",
-    "Site made by pando#001",
+    "Site made by pando#0001",
     "Tickets are now for sale!",
   ];
   titleChanger = (text, delay) => {
