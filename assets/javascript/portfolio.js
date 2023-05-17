@@ -26,7 +26,7 @@ $(document).ready(() => {
     },
     {
       name: "Discord",
-      link: "https://discord.gg/eeJDfQYh",
+      link: "https://headhunterofficial.cc/discord/",
     },
   ];
 
