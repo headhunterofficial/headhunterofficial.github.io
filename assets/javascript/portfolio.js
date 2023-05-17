@@ -13,16 +13,16 @@ const mobileAndTabletCheck = () =>
 $(document).ready(() => {
   const links = [
     {
-      name: "Spotify",
-      link: "https://open.spotify.com/artist/4v8gsD5aEBObhcWg2w03DD",
+      name: "Tickets",
+      link: "https://www.songkick.com/artists/10274458",
     },
     {
       name: "Instagram",
       link: "https://www.instagram.com/itzh34dhunt3r/",
     },
     {
-      name: "Steam",
-      link: "https://steamcommunity.com/id/heedhoonterus/",
+      name: "Spotify",
+      link: "https://open.spotify.com/artist/4v8gsD5aEBObhcWg2w03DD",
     },
     {
       name: "Discord",
