@@ -14,7 +14,7 @@ $(document).ready(() => {
   const links = [
     {
       name: "Tickets",
-      link: "https://www.songkick.com/artists/10274458",
+      link: "https://headhunterofficial.cc/tickets/",
     },
     {
       name: "Instagram",
